@@ -19,4 +19,9 @@
     "name": "Hindi",
     "country": "India"
   }
+   {
+    "code": "pt_BR", 
+    "name": "Português",
+    "country": "Brasil"
+  }, 
 ]
